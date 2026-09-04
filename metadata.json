@@ -1,0 +1,6 @@
+{
+  "name": "پوز‌پلاس - سامانه فروش و پشتیبانی کارتخوان",
+  "description": "سامانه تخصصی فروش، گارانتی، تعمیرات و فعال‌سازی فوری انواع دستگاه کارتخوان سیار و ثابت شاپرک در سراسر کشور",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
